@@ -18,6 +18,16 @@ Business Objective
 Minimize : unliked color phones
 Maximaze : Recommandation of good Saleing  colors phones
 
+Data Dictionary
+
+  Name of Features     Type Relevance   Description
+0              red  Nominal  Relevant     red color
+1            white  Nominal  Relevant   white color
+2            green  Nominal  Relevant   green color
+3           yellow  Nominal  Relevant  yellow color
+4           orange  Nominal  Relevant  orange color
+5             blue  Nominal  Relevant    blue color
+
 """
 
 import pandas as pd
