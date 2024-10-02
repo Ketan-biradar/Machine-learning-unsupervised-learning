@@ -19,6 +19,23 @@ solution.
 Business Objective
 Minimize : Increase sale of Online book shopping
 Maximaze : Sales of books
+
+
+Data Dictionary
+
+Name of features     Type Relevance      Description
+0          ChildBks  Nominal  Relevant      Child Related books
+1          YouthBks  Nominal  Relevant      Youth Related books
+2           CookBks  Nominal  Relevant    Cooking Related books
+3          DoItYBks  Nominal  Relevant      DoItY Related books
+4            RefBks  Nominal  Relevant  Reference Related books
+5            ArtBks  Nominal  Relevant        Art Related books
+6           GeogBks  Nominal  Relevant  Geography Related books
+7          ItalCook  Nominal  Relevant   ItalCook Related books
+8         ItalAtlas  Nominal  Relevant  ItalAtlas Related books
+9           ItalArt  Nominal  Relevant    ItalArt Related books
+10         Florence  Nominal  Relevant   Florence Related books
+
 """
 
 import pandas as pd
