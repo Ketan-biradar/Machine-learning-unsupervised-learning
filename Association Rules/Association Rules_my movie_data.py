@@ -13,7 +13,20 @@ objective is achieved.
 Business Objective 
 Minimize : dislikes movies or dissimilar movies recommandation
 Maximaze : likes movies and similar type movies
-Business constraints
+
+Data Dictionary
+
+ Name of features     Type Relevance    Description
+0      Sixth Sense  Nominal  Relevant    Sixth Sense
+1        Gladiator  Nominal  Relevant      Gladiator
+2            LOTR1  Nominal  Relevant          LOTR1
+3    Harry Potter1  Nominal  Relevant  Harry Potter1
+4          Patriot  Nominal  Relevant        Patriot
+5            LOTR2  Nominal  Relevant          LOTR2
+6    Harry Potter2  Nominal  Relevant  Harry Potter2
+7             LOTR  Nominal  Relevant           LOTR
+8       Braveheart  Nominal  Relevant     Braveheart
+9       Green Mile  Nominal  Relevant     Green Mile
 
 """
 
